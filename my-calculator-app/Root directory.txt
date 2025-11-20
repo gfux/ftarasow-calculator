@@ -1,0 +1,15 @@
+ftarasow-calculator/
+├── package.json
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── assets/
+│       └── qr-code.png (если вы добавляли)
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── Components/
+│   │   └── Project.jsx ← ваш файл калькулятора
+│   ├── Pages/
+│   └── Details.js
+└── README.md
